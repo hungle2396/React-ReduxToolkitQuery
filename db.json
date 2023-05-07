@@ -33,6 +33,26 @@
       "id": 4,
       "title": "Easy On Me",
       "userId": 5
+    },
+    {
+      "userId": 3,
+      "title": "Refined Concrete Chicken",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "title": "Refined Cotton Sausages",
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "title": "Unbranded Wooden Chips",
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "title": "Handcrafted Plastic Mouse",
+      "id": 8
     }
   ],
   "photos": []
