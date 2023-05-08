@@ -15,11 +15,6 @@
   ],
   "albums": [
     {
-      "id": 1,
-      "title": "Hiking Trip",
-      "userId": 3
-    },
-    {
       "id": 2,
       "title": "Born This Way",
       "userId": 3
@@ -53,6 +48,16 @@
       "userId": 3,
       "title": "Handcrafted Plastic Mouse",
       "id": 8
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Plastic Pizza",
+      "id": 9
+    },
+    {
+      "userId": 5,
+      "title": "Rustic Frozen Pizza",
+      "id": 10
     }
   ],
   "photos": []
